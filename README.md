@@ -8,8 +8,8 @@ This was one of my first ever games! I made this game before I even used github!
 
 1. **Clone the Repository**  
    ```bash
-   git clone <REPO_URL>
-   cd <REPO_FOLDER
+   git clone https://github.com/aprettygoodprogramer/pygame.collect_gold.git
+   cd pygame.collect_gold
 
 2.  **Install Pygame**
    ```bash
